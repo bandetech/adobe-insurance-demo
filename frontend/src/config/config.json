@@ -1,0 +1,5 @@
+{
+    "serverUrl": "http://localhost:8080",
+    "redirectUrl": "http://localhost:3000/signed",
+    "embedClientId": "<get your client id>"
+}
